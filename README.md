@@ -29,8 +29,6 @@ O projeto consiste em uma página web de portfólio profissional que apresenta i
 
 ## 🗂️ Estrutura de Arquivos
 
-```
-josenilton_portifolio-atv1-main/
 ├── index.html      # Estrutura semântica da página
 ├── style.css       # Estilização com Flexbox, Grid e responsividade
 ├── script.js       # Array de projetos e renderização dinâmica
